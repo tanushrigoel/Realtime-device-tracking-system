@@ -21,14 +21,4 @@ A real-time device tracking system built using **Node.js**, **Express.js**, and 
 - **Node.js**: Backend runtime environment.
 - **Express.js**: Web framework for handling routes and middleware.
 - **Socket.io**: Real-time communication between the server and client.
-- **Map API**: (Optional) You can integrate **Google Maps**, **Mapbox**, or **Leaflet** for rendering the real-time device locations on a map.
-
----
-
-## ⚙️ Setup and Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/tanushrigoel/Realtime-device-tracking-system.git
-   cd Realtime-device-tracking-system
+- **Leaflet**:  You can integrate **Google Maps**, **Mapbox**, or **Leaflet** for rendering the real-time device locations on a map. I have used leaflet here
